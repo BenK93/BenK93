@@ -3,6 +3,6 @@ Hi there! I'm Ben 🏂 I'm a 28-year-old Mobile and Software Engineer working mo
 
 Very enthusiastic about Computer Vision, Neural networks & Machine learning, also aiming to be professional at that field. Familiar with: Pandas, OpenCV, Numpy, ScikitLearn and more...
 
-📫 How to reach me: benkoren23@gmail.com
-💬 Open for questions & suggestions 
+📫 How to reach me: benkoren23@gmail.com   
+💬 Open for questions & suggestions   
 ✨ Fun fact: I like to travel around the globe while I carry my MacBook and iPhone in my backpack

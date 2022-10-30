@@ -5,4 +5,4 @@ Very enthusiastic about Computer Vision, Neural networks & Machine learning, als
 
 📫 How to reach me: benkoren23@gmail.com   
 💬 Open for questions & suggestions   
-✨ Fun fact: I like to travel around the globe while I carry my MacBook and iPhone in my backpack
+✨ My hobbies: Coding, Scuba diving, Skateboard, Ping-Pong & music festivals

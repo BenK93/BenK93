@@ -22,7 +22,7 @@ I'm deeply passionate about full-stack technologies and infrastructure as well a
 #### Languages
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=typeScript&svgfill=2d79c7">&nbsp;&nbsp;&nbsp;
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=javaScript&svgfill=f6df1c">&nbsp;&nbsp;&nbsp;
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=python&svgfill=f6df1c">&nbsp;&nbsp;&nbsp;
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=python&svgfill=#306998">&nbsp;&nbsp;&nbsp;
 
 #### Frameworks & Tools
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=node.js&svgfill=659b60">&nbsp;&nbsp;&nbsp;

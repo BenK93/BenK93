@@ -27,10 +27,10 @@ I'm deeply passionate about full-stack technologies and infrastructure as well a
 #### Frameworks & Tools
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=node.js&svgfill=659b60">&nbsp;&nbsp;&nbsp;
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=react&animation=spin&svgfill=15d8fe">&nbsp;&nbsp;&nbsp;
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=nestjs&svgfill=659b60">&nbsp;&nbsp;&nbsp;
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=docker&svgfill=659b60">&nbsp;&nbsp;&nbsp;
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=FastAPI&svgfill=659b60">&nbsp;&nbsp;&nbsp;
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=storybook&svgfill=659b60">&nbsp;&nbsp;&nbsp;
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=nestjs&svgfill=E0234E">&nbsp;&nbsp;&nbsp;
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=docker&svgfill=2496ED">&nbsp;&nbsp;&nbsp;
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=FastAPI&svgfill=009688">&nbsp;&nbsp;&nbsp;
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%231f1c2c%2C%20%23928dab%29&logo=storybook&svgfill=FF4785">&nbsp;&nbsp;&nbsp;
 
 <!-- <img  src="https://readme-components.vercel.app/api?component=logo&fill=linear-gradient%28to%20right%2C%20%23c31432%2C%20%23240b36%29&logo=CSS3&svgfill=028dd1">&nbsp;&nbsp;&nbsp;<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa"&nbsp;&nbsp;&nbsp;
 <img src="images/javascript.png" width="80">&nbsp;&nbsp;&nbsp;<img src="images/typescript.svg" width="80">&nbsp;&nbsp;&nbsp;<img src="images/react.png" width="80">&nbsp;&nbsp;&nbsp;<img src="images/node-js.svg" width="80">&nbsp;&nbsp;&nbsp;<img src="images/gatsby.png" width="80">&nbsp;&nbsp;&nbsp;<img src="images/html.png" width="80">&nbsp;&nbsp;&nbsp;<img src="images/css.png" width="80">&nbsp;&nbsp;&nbsp;<img src="https://github.com/ElenVlass/ElenVlass/assets/72293912/40450b9c-0465-4dca-91a8-a54ae9dd8d7a" width="80">&nbsp;&nbsp;&nbsp;<img src="https://github.com/ElenVlass/ElenVlass/assets/72293912/abb23d9e-41d0-46ec-bba3-4a6c887f09ae" width="70"> > -->
